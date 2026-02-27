@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Administrator",
+        "username": "admin",
+        "email": "admin@alsyukro.sch.id",
+        "password": "$2y$10$hVN5JFVThspDS4z03ZxKH.6n8J1zxjHgXeteFVZxpBwl3HMIZGEUu",
+        "role": "admin",
+        "unit": "IT",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 2,
+        "name": "Budi Santoso",
+        "username": "staff1",
+        "email": "budi@alsyukro.sch.id",
+        "password": "$2y$10$9xznwvA\/VTTULAndlOzjOeiHfxZMA8Nzw9OTKWnnubQtYEu0HneKS",
+        "role": "staff",
+        "unit": "Umum",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 3,
+        "name": "Siti Rahma",
+        "username": "karyawan1",
+        "email": "siti@alsyukro.sch.id",
+        "password": "$2y$10$yxFeCMnUXtNToR1E3Wzokub5yNpVw.hw4LGQ2wBlHBmYN3ei6No\/m",
+        "role": "karyawan",
+        "unit": "Keuangan",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 4,
+        "name": "HR Manager",
+        "username": "adminhr",
+        "email": "hr@alsyukro.sch.id",
+        "password": "$2y$10$5Y5v7L2NQxC\/P7GJYYF8D.fmN9dRgotml6cSvAn8lqPUw88KH3blG",
+        "role": "admin_hr",
+        "unit": "HR",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 5,
+        "name": "Event Organizer",
+        "username": "eo",
+        "email": "eo@alsyukro.sch.id",
+        "password": "$2y$10$poEnAOINvyzA9zMHks.viOv64f94JMHq8.KcRa0H4DZmJpwQQewIq",
+        "role": "eo",
+        "unit": "Event",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 6,
+        "name": "Admin Fasilitas",
+        "username": "adminfas",
+        "email": "fasilitas@alsyukro.sch.id",
+        "password": "$2y$10$Z1Ap7wyTtcT0ICNRSMFSHeY.RmDJ8j6BGpUL4EFa0ELOPLcvm8Du6",
+        "role": "admin_fasilitas",
+        "unit": "Fasilitas",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 7,
+        "name": "Teknisi Utama",
+        "username": "teknisi",
+        "email": "teknisi@alsyukro.sch.id",
+        "password": "$2y$10$D95tD5jhsNGEKQi23psE7.Q8ohY\/CC3eZi4W3i9YyXy7sKxW\/vDHm",
+        "role": "teknisi",
+        "unit": "Teknik",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 8,
+        "name": "Kepala Sekolah",
+        "username": "manager",
+        "email": "kepala@alsyukro.sch.id",
+        "password": "$2y$10$EfJZ0WDUT2Or3yK1w764Te0CzgRvRkoBL9qnqMuBzGW.JrH\/Yvqxq",
+        "role": "manager",
+        "unit": "Pimpinan",
+        "created_at": "2026-02-26"
+    },
+    {
+        "id": 9,
+        "name": "Admin Arsip",
+        "username": "adminarsip",
+        "email": "arsip@alsyukro.sch.id",
+        "password": "$2y$10$FpnqDYI\/2fRqEaTbde99wu2BskljnUY1xu6rLOSdG6CtaMybtpIm2",
+        "role": "admin_arsip",
+        "unit": "Arsip",
+        "created_at": "2026-02-26"
+    }
+]
